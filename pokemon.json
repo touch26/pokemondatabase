@@ -1,1 +1,4 @@
-Pokemon json
+{
+  "name":"Bulbasaur",
+  "type1":"grass"
+}
