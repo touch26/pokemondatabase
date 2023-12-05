@@ -32,7 +32,7 @@
 			
 	"evolution": {
 		"evolvesfrom": {},
-		"mechanism": {}},
+		"evolutionaryline": {}},
 
 	"resources": {
 		"pokemondbname": "bulbasaur"}
@@ -71,7 +71,7 @@
 			
 	"evolution": {
 		"evolvesfrom": {},
-		"mechanism": {}},
+		"evolutionaryline": {}},
 
 	"resources": {
 		"pokemondbname": "bulbasaur"}
