@@ -4,7 +4,7 @@
 	"ID": 1,
 	"name": "Bulbasaur",
 	
-	"type": ["Grass", "Poison"]
+	"type": ["Grass", "Poison"],
 	
 	"ability": {
 		"classic":["Overgrown"],
@@ -42,7 +42,7 @@
 	"ID": 1,
 	"name": "Bulbasaur",
 	
-	"type": ["Grass", "Poison"]
+	"type": ["Grass", "Poison"],
 	
 	"ability": {
 		"classic":["Overgrown"],
