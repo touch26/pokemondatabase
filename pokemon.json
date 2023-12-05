@@ -1,12 +1,77 @@
 [
-	{
-		"id":"ciao",
-		"title":"ciaociao",
-		"body":"ciaociaociao"
-	},
-	{
-		"id":"ciao",
-		"title":{},
-		"body":"ciaociaociao"
-	}
+{
+	"generation":1,
+	"ID":1,
+	"name":"Bulbasaur",
+	
+	"type":{
+		"type1":"Grass",
+		"type2":"Poison"},
+		
+	"abilities":{
+		"ability1":"overgrow",
+		"ability2":{},
+		"hidden":"Clorophill"},
+		
+	"stats":{
+		"HP":10,
+		"Att":10,
+		"Def":10,
+		"SpA":10,
+		"SpD":10,
+		"Spe":10},
+		
+	"EVyeld": "1 SpA, 1 Def",
+	
+	"profile":{
+		"height":0.7,
+		"weight":6.9,
+		"egggroup":["Monster","Grass"],
+		"gender":{
+			"genderless":false,
+			"maleratio":87.5,
+			"femaleratio":12.5}},
+			
+	"evolution":{
+		"evolvesfrom":{},
+		"mechanism":{}}
+},
+
+{
+	"generation":1,
+	"ID":1,
+	"name":"Bulbasaur",
+	
+	"type":{
+		"type1":"Grass",
+		"type2":"Poison"},
+		
+	"abilities":{
+		"ability1":"overgrow",
+		"ability2":{},
+		"hidden":"Clorophill"},
+		
+	"stats":{
+		"HP":10,
+		"Att":10,
+		"Def":10,
+		"SpA":10,
+		"SpD":10,
+		"Spe":10},
+		
+	"EVyeld": "1 SpA, 1 Def",
+	
+	"profile":{
+		"height":0.7,
+		"weight":6.9,
+		"egggroup":["Monster","Grass"],
+		"gender":{
+			"genderless":false,
+			"maleratio":87.5,
+			"femaleratio":12.5}},
+			
+	"evolution":{
+		"evolvesfrom":{},
+		"mechanism":{}}
+}
 ]
