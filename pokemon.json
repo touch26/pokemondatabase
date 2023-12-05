@@ -9,8 +9,8 @@
 		"type2":"Poison"},
 		
 	"abilities":{
-		"ability1":"overgrow",
-		"ability2":{},
+		"ability1":"Overgrow",
+		"ability2":"Beeee",
 		"hidden":"Clorophill"},
 		
 	"stats":{
