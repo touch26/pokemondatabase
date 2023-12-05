@@ -1,15 +1,12 @@
 [
-
+	{
+		"id":"ciao",
+		"title":"ciaociao",
+		"body":"ciaociaociao"
+	},
 	{
 		"id":"ciao",
 		"title":"ciaociao",
 		"body":"ciaociaociao"
 	}
-
-	{
-		"id":"ciao",
-		"title":"ciaociao",
-		"body":"ciaociaociao"
-	}
-
 ]
