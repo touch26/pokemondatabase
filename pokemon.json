@@ -54,7 +54,7 @@
 	"abilities":{
 		"ability1":"Overgrow",
 		"ability2":{},
-		"hidden":"Clorophill"},
+		"hidden":{}},
 		
 	"stats":{
 		"HP":10,
