@@ -15,7 +15,7 @@
 		
 	"stats":{
 		"HP":10,
-		"Att":"=5*10",
+		"Att":"=10",
 		"Def":20,
 		"SpA":10,
 		"SpD":10,
@@ -64,7 +64,9 @@
 	"profile":{
 		"height":0.7,
 		"weight":6.9,
-		"egggroup":["Monster","Grass"],
+		"egggroup":{
+			"egggroup1":"Monster",
+			"egggroup2":"{}},
 		"gender":{
 			"genderless":false,
 			"maleratio":87.5,
