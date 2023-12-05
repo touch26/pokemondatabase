@@ -4,7 +4,7 @@
 	"ID":1,
 	"name":"Bulbasaur",
 	
-	"type":{
+	"types":{
 		"type1":"Grass",
 		"type2":"Poison"},
 		
@@ -47,7 +47,7 @@
 	"ID":1,
 	"name":"Bulbasaur",
 	
-	"type":{
+	"types":{
 		"type1":"Grass",
 		"type2":"Poison"},
 		
