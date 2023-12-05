@@ -47,7 +47,7 @@
 	
 	"ability": {
 		"classic": ["Overgrown"],
-		"hidden": "Clorophill"},
+		"hidden": {}},
 		
 	"stats": {
 		"HP": 10,
