@@ -1,4 +1,15 @@
-{
-  "name":"Bulbasaur",
-  "type1":"grass"
-}
+[
+
+	{
+		"id":"ciao",
+		"title":"ciaociao",
+		"body":"ciaociaociao"
+	}
+
+	{
+		"id":"ciao",
+		"title":"ciaociao",
+		"body":"ciaociaociao"
+	}
+
+]
