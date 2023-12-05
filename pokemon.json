@@ -31,8 +31,8 @@
 			"femaleratio": 12.5}},
 			
 	"evolution": {
-		"evolvesfrom": {},
-		"evolutionaryline": {}},
+		"evolvesfrom": null,
+		"evolutionaryline": null},
 
 	"resources": {
 		"pokemondbname": "bulbasaur"}
@@ -47,7 +47,7 @@
 	
 	"ability": {
 		"classic": ["Overgrown"],
-		"hidden": {}},
+		"hidden": null},
 		
 	"stats": {
 		"HP": 10,
@@ -70,8 +70,8 @@
 			"femaleratio": 12.5}},
 			
 	"evolution": {
-		"evolvesfrom": {},
-		"evolutionaryline": {}},
+		"evolvesfrom": null,
+		"evolutionaryline": null},
 
 	"resources": {
 		"pokemondbname": "bulbasaur"}
