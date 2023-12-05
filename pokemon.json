@@ -43,7 +43,7 @@
 	"ID": 1,
 	"name": "Bulbasaur",
 	
-	"type": ["Grass", "Poison"],
+	"type": ["Grass"],
 	
 	"ability": {
 		"classic": ["Overgrown"],
@@ -63,7 +63,7 @@
 	"profile": {
 		"height":0.7,
 		"weight":6.9,
-		"egggroup": ["Monster", "Grass"],
+		"egggroup": ["Monster"],
 		"gender":{
 			"genderless": false,
 			"maleratio": 87.5,
