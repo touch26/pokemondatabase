@@ -26,7 +26,9 @@
 	"profile":{
 		"height":0.7,
 		"weight":6.9,
-		"egggroup":["Monster","Grass"],
+		"egggroups":{
+			"egggroup1":"Monster",
+			"egggroup2":"{}},
 		"gender":{
 			"genderless":false,
 			"maleratio":87.5,
@@ -64,7 +66,7 @@
 	"profile":{
 		"height":0.7,
 		"weight":6.9,
-		"egggroup":{
+		"egggroups":{
 			"egggroup1":"Monster",
 			"egggroup2":"{}},
 		"gender":{
