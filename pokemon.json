@@ -28,7 +28,7 @@
 		"weight":6.9,
 		"egggroups":{
 			"egggroup1":"Monster",
-			"egggroup2":"{}},
+			"egggroup2":{}},
 		"gender":{
 			"genderless":false,
 			"maleratio":87.5,
@@ -68,7 +68,7 @@
 		"weight":6.9,
 		"egggroups":{
 			"egggroup1":"Monster",
-			"egggroup2":"{}},
+			"egggroup2":{}},
 		"gender":{
 			"genderless":false,
 			"maleratio":87.5,
