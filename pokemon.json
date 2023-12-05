@@ -7,36 +7,38 @@
 	"type": ["Grass", "Poison"],
 	
 	"ability": {
-		"classic":["Overgrown"],
-		"hidden":"Clorophill"},
+		"classic": ["Overgrown"],
+		"hidden": "Clorophill"},
 		
 	"stats": {
-		"HP":10,
-		"Att":10,
-		"Def":20,
-		"SpA":10,
-		"SpD":10,
-		"Spe":10},
+		"HP": 10,
+		"Att": 10,
+		"Def": 20,
+		"SpA": 10,
+		"SpD": 10,
+		"Spe": 10,
+		"TOT": 100},
 		
 	"EVyeld": ["1 SpA", "1 Def"],
 	
-	"profile":{
+	"profile": {
 		"height":0.7,
 		"weight":6.9,
 		"egggroup": ["Monster", "Grass"],
 		"gender":{
-			"genderless":false,
-			"maleratio":87.5,
-			"femaleratio":12.5}},
+			"genderless": false,
+			"maleratio": 87.5,
+			"femaleratio": 12.5}},
 			
-	"evolution":{
-		"evolvesfrom":{},
-		"mechanism":{}},
+	"evolution": {
+		"evolvesfrom": {},
+		"mechanism": {}},
 
-	"resources":{
-		"pokemondbname":"bulbasaur"}
+	"resources": {
+		"pokemondbname": "bulbasaur"}
 },
 
+[
 {
 	"generation": 1,
 	"ID": 1,
@@ -45,33 +47,34 @@
 	"type": ["Grass", "Poison"],
 	
 	"ability": {
-		"classic":["Overgrown"],
-		"hidden":"Clorophill"},
+		"classic": ["Overgrown"],
+		"hidden": "Clorophill"},
 		
 	"stats": {
-		"HP":10,
-		"Att":10,
-		"Def":20,
-		"SpA":10,
-		"SpD":10,
-		"Spe":10},
+		"HP": 10,
+		"Att": 10,
+		"Def": 20,
+		"SpA": 10,
+		"SpD": 10,
+		"Spe": 10,
+		"TOT": 100},
 		
 	"EVyeld": ["1 SpA", "1 Def"],
 	
-	"profile":{
+	"profile": {
 		"height":0.7,
 		"weight":6.9,
 		"egggroup": ["Monster", "Grass"],
 		"gender":{
-			"genderless":false,
-			"maleratio":87.5,
-			"femaleratio":12.5}},
+			"genderless": false,
+			"maleratio": 87.5,
+			"femaleratio": 12.5}},
 			
-	"evolution":{
-		"evolvesfrom":{},
-		"mechanism":{}},
+	"evolution": {
+		"evolvesfrom": {},
+		"mechanism": {}},
 
-	"resources":{
-		"pokemondbname":"bulbasaur"}
+	"resources": {
+		"pokemondbname": "bulbasaur"}
 }
 ]
