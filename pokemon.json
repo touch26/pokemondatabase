@@ -26,7 +26,7 @@
 		"weight":6.9,
 		"egggroup": ["Monster", "Grass"],
 		"gender":{
-			"genderless": false,
+			"genderless": true,
 			"maleratio": 87.5,
 			"femaleratio": 12.5}},
 			
