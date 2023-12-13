@@ -1,0 +1,190 @@
+[
+  {},
+  {
+    "title": null,
+    "subtitles": [
+      {
+        "name": "Gen",
+        "cell": {
+          "length": 48,
+          "text_position": "center"
+        },
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "title": "Pokémon",
+    "subtitles": [
+      {
+        "name": "ID",
+        "cell": {
+          "length": 48,
+          "text_position": "center"
+        },
+        "hidden": false
+      },
+      {
+        "name": "Name",
+        "cell": {
+          "length": 100,
+          "text_position": "left"
+        },
+        "hidden": false
+      },
+      {
+        "name": "Sprite",
+        "cell": {
+          "length": 48,
+          "text_position": "center"
+        },
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "title": "Types",
+    "subtitles": [
+      {
+        "name": "Type 1",
+        "cell": {
+          "length": 100,
+          "text_position": "left"
+        },
+        "hidden": false
+      },
+      {
+        "name": "Type 2",
+        "cell": {
+          "length": 100,
+          "text_position": "left"
+        },
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "subtitles": [
+      {
+        "name": "Ability 1",
+        "cell": {
+          "length": 120,
+          "text_position": "left"
+        },
+        "hidden": false
+      },
+      {
+        "name": "Ability 2",
+        "cell": {
+          "length": 120,
+          "text_position": "left"
+        },
+        "hidden": false
+      },
+      {
+        "name": "Hidden",
+        "cell": {
+          "length": 120,
+          "text_position": "left"
+        },
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "title": "Base stats",
+    "subtitles": [
+      {
+        "name": "HP",
+        "cell": {
+          "length": 48,
+          "text_position": "center"
+        },
+        "hidden": false
+      },
+      {
+        "name": "Att",
+        "cell": {
+          "length": 48,
+          "text_position": "center"
+        },
+        "hidden": false
+      },
+      {
+        "name": "Def",
+        "cell": {
+          "length": 48,
+          "text_position": "center"
+        },
+        "hidden": false
+      },
+      {
+        "name": "SpA",
+        "cell": {
+          "length": 48,
+          "text_position": "center"
+        },
+        "hidden": false
+      },
+      {
+        "name": "SpD",
+        "cell": {
+          "length": 48,
+          "text_position": "center"
+        },
+        "hidden": false
+      },
+      {
+        "name": "Spe",
+        "cell": {
+          "length": 48,
+          "text_position": "center"
+        },
+        "hidden": false
+      },
+      {
+        "name": "TOT",
+        "cell": {
+          "length": 48,
+          "text_position": "center"
+        },
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "title": "EV yeld",
+    "subtitles": [
+      {
+        "name": null,
+        "cell": {
+          "length": 120,
+          "text_position": "left"
+        },
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "title": "Egg",
+    "subtitles": [
+      {
+        "name": "Egg groups",
+        "cell": {
+          "length": 140,
+          "text_position": "left"
+        },
+        "hidden": false
+      },
+      {
+        "name": "Cycles",
+        "cell": {
+          "length": 100,
+          "text_position": "center"
+        },
+        "hidden": false
+      }
+    ]
+  }
+]
