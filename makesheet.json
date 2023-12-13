@@ -5,7 +5,7 @@
     "subtitles": [
       {
         "name": "Gen",
-        "cell": {
+        "column": {
           "length": 48,
           "text_position": "center"
         },
@@ -18,7 +18,7 @@
     "subtitles": [
       {
         "name": "ID",
-        "cell": {
+        "column": {
           "length": 48,
           "text_position": "center"
         },
@@ -26,7 +26,7 @@
       },
       {
         "name": "Name",
-        "cell": {
+        "column": {
           "length": 100,
           "text_position": "left"
         },
@@ -34,7 +34,7 @@
       },
       {
         "name": "Sprite",
-        "cell": {
+        "column": {
           "length": 48,
           "text_position": "center"
         },
@@ -47,7 +47,7 @@
     "subtitles": [
       {
         "name": "Type 1",
-        "cell": {
+        "column": {
           "length": 100,
           "text_position": "left"
         },
@@ -55,7 +55,7 @@
       },
       {
         "name": "Type 2",
-        "cell": {
+        "column": {
           "length": 100,
           "text_position": "left"
         },
@@ -68,7 +68,7 @@
     "subtitles": [
       {
         "name": "Ability 1",
-        "cell": {
+        "column": {
           "length": 120,
           "text_position": "left"
         },
@@ -76,7 +76,7 @@
       },
       {
         "name": "Ability 2",
-        "cell": {
+        "column": {
           "length": 120,
           "text_position": "left"
         },
@@ -84,7 +84,7 @@
       },
       {
         "name": "Hidden",
-        "cell": {
+        "column": {
           "length": 120,
           "text_position": "left"
         },
@@ -97,7 +97,7 @@
     "subtitles": [
       {
         "name": "HP",
-        "cell": {
+        "column": {
           "length": 48,
           "text_position": "center"
         },
@@ -105,7 +105,7 @@
       },
       {
         "name": "Att",
-        "cell": {
+        "column": {
           "length": 48,
           "text_position": "center"
         },
@@ -113,7 +113,7 @@
       },
       {
         "name": "Def",
-        "cell": {
+        "column": {
           "length": 48,
           "text_position": "center"
         },
@@ -121,7 +121,7 @@
       },
       {
         "name": "SpA",
-        "cell": {
+        "column": {
           "length": 48,
           "text_position": "center"
         },
@@ -129,7 +129,7 @@
       },
       {
         "name": "SpD",
-        "cell": {
+        "column": {
           "length": 48,
           "text_position": "center"
         },
@@ -137,7 +137,7 @@
       },
       {
         "name": "Spe",
-        "cell": {
+        "column": {
           "length": 48,
           "text_position": "center"
         },
@@ -145,7 +145,7 @@
       },
       {
         "name": "TOT",
-        "cell": {
+        "column": {
           "length": 48,
           "text_position": "center"
         },
@@ -158,7 +158,7 @@
     "subtitles": [
       {
         "name": null,
-        "cell": {
+        "column": {
           "length": 120,
           "text_position": "left"
         },
@@ -171,7 +171,7 @@
     "subtitles": [
       {
         "name": "Egg groups",
-        "cell": {
+        "column": {
           "length": 140,
           "text_position": "left"
         },
@@ -179,7 +179,7 @@
       },
       {
         "name": "Cycles",
-        "cell": {
+        "column": {
           "length": 100,
           "text_position": "center"
         },
