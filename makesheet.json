@@ -1,6 +1,7 @@
 [
   {
     "general": {
+      "coloredcolumns": 4,
       "rowsheight": 30,
       "verticalalignment": "middle",
       "borders": {
@@ -13,8 +14,8 @@
         "color": null,
         "style": null
       },
-      "cellbackground": "#FFFFFF",
-      "textcolor": "#000000",
+      "background": "#FFFFFF",
+      "fontcolor": "#000000",
       "fontfamily": "Shippori Antique B1",
       "fontsize": 9,
       "fontweight": "normal"
@@ -33,8 +34,8 @@
           "color": "#434343",
           "style": "solid"
         },
-        "cellbackground": "#434343",
-        "textcolor": "#FFFFFF",
+        "background": "#434343",
+        "fontcolor": "#FFFFFF",
         "fontfamily": "Shippori Antique B1",
         "fontsize": 10,
         "fontweight": "bold"
@@ -52,8 +53,8 @@
           "color": "#434343",
           "style": "solid"
         },
-        "cellbackground": "#434343",
-        "textcolor": "#FFFFFF",
+        "background": "#434343",
+        "fontcolor": "#FFFFFF",
         "fontfamily": "Shippori Antique B1",
         "fontsize": 9,
         "fontweight": "bold"
