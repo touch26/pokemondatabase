@@ -1,5 +1,65 @@
 [
-  {},
+  {
+    "general": {
+      "rowsheight": 30,
+      "verticalalignment": "middle",
+      "borders": {
+        "top": false,
+        "left": false,
+        "bottom": false,
+        "right": false,
+        "vertical": false,
+        "horizontal": false,
+        "color": null,
+        "style": null
+      },
+      "cellbackground": "#FFFFFF",
+      "textcolor": "#000000",
+      "fontfamily": "Shippori Antique B1",
+      "fontsize": 9,
+      "fontweight": "normal"
+    },
+    "header": {
+      "title": {
+        "rowsheight": 30,
+        "verticalalignment": "middle",
+        "borders": {
+          "top": true,
+          "left": true,
+          "bottom": true,
+          "right": true,
+          "vertical": true,
+          "horizontal": true,
+          "color": "#434343",
+          "style": "solid"
+        },
+        "cellbackground": "#434343",
+        "textcolor": "#FFFFFF",
+        "fontfamily": "Shippori Antique B1",
+        "fontsize": 10,
+        "fontweight": "bold"
+      },
+      "subtitle": {
+        "rowsheight": 30,
+        "verticalalignment": "middle",
+        "borders": {
+          "top": true,
+          "left": true,
+          "bottom": true,
+          "right": true,
+          "vertical": true,
+          "horizontal": true,
+          "color": "#434343",
+          "style": "solid"
+        },
+        "cellbackground": "#434343",
+        "textcolor": "#FFFFFF",
+        "fontfamily": "Shippori Antique B1",
+        "fontsize": 9,
+        "fontweight": "bold"
+      }
+    }
+  },
   {
     "title": null,
     "subtitles": [
