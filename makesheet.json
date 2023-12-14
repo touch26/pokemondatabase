@@ -22,6 +22,7 @@
     },
     "header": {
       "title": {
+        "Nrows": 1,
         "rowsheight": 30,
         "verticalalignment": "middle",
         "borders": {
@@ -41,6 +42,7 @@
         "fontweight": "bold"
       },
       "subtitle": {
+        "Nrows": 1,
         "rowsheight": 30,
         "verticalalignment": "middle",
         "borders": {
