@@ -20,12 +20,12 @@
       "fontsize": 9,
       "fontweight": "normal",
       "titleseparatorborder": {
-          "top": false,
-          "left": false,
-          "bottom": false,
+          "top": null,
+          "left": null,
+          "bottom": null,
           "right": true,
-          "vertical": false,
-          "horizontal": false,
+          "vertical": null,
+          "horizontal": null,
           "color": "#000000",
           "style": "solid-medium"
       }
