@@ -18,7 +18,17 @@
       "fontcolor": "#000000",
       "fontfamily": "Shippori Antique B1",
       "fontsize": 9,
-      "fontweight": "normal"
+      "fontweight": "normal",
+      "titleseparatorborder": {
+          "top": false,
+          "left": false,
+          "bottom": false,
+          "right": true,
+          "vertical": false,
+          "horizontal": false,
+          "color": "#000000",
+          "style": "medium-solid"
+      }
     },
     "header": {
       "title": {
