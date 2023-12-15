@@ -4,6 +4,7 @@
       "coloredcolumns": 0,
       "rowsheight": 30,
       "verticalalignment": "middle",
+      "horizontalalignment": "center",
       "borders": {
         "top": false,
         "left": false,
