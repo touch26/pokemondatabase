@@ -18,22 +18,12 @@
       "fontcolor": "#000000",
       "fontfamily": "Shippori Antique B1",
       "fontsize": 9,
-      "fontweight": "normal",
-      "titleseparatorborder": {
-          "top": null,
-          "left": null,
-          "bottom": null,
-          "right": true,
-          "vertical": null,
-          "horizontal": null,
-          "color": "#000000",
-          "style": "solid-medium"
-      }
+      "fontweight": "normal"
     },
     "header": {
       "title": {
-        "Nrows": 1,
-        "rowsheight": 30,
+        "titlerow": 1,
+        "rowheight": 30,
         "verticalalignment": "middle",
         "borders": {
           "top": true,
@@ -52,8 +42,8 @@
         "fontweight": "bold"
       },
       "subtitle": {
-        "Nrows": 1,
-        "rowsheight": 30,
+        "subtitlerow": 2,
+        "rowheight": 30,
         "verticalalignment": "middle",
         "borders": {
           "top": true,
@@ -79,10 +69,15 @@
       {
         "name": "Gen",
         "column": {
-          "length": 48,
-          "text_position": "center"
+          "width": 48,
+          "horizontalalignment": "center"
         },
-        "hidden": true
+        "hidden": true,
+        "colored": {
+          "is_colored": true,
+          "columnbackground": "#434343",
+          "fontcolor": "#FFFFFF"
+        }
       }
     ]
   },
@@ -92,26 +87,41 @@
       {
         "name": "ID",
         "column": {
-          "length": 48,
-          "text_position": "center"
+          "width": 48,
+          "horizontalalignment": "center"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": true,
+          "columnbackground": "#434343",
+          "fontcolor": "#FFFFFF"
+        }
       },
       {
         "name": "Name",
         "column": {
-          "length": 100,
-          "text_position": "left"
+          "width": 100,
+          "horizontalalignment": "left"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": true,
+          "columnbackground": "#434343",
+          "fontcolor": "#FFFFFF"
+        }
       },
       {
         "name": "Sprite",
         "column": {
-          "length": 48,
-          "text_position": "center"
+          "width": 48,
+          "horizontalalignment": "center"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": true,
+          "columnbackground": "#434343",
+          "fontcolor": "#FFFFFF"
+        }
       }
     ]
   },
@@ -121,18 +131,27 @@
       {
         "name": "Type 1",
         "column": {
-          "length": 100,
-          "text_position": "left"
+          "width": 100,
+          "horizontalalignment": "left"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       },
       {
         "name": "Type 2",
         "column": {
-          "length": 100,
-          "text_position": "left"
+          "width": 100,
+          "horizontalalignment": "left"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": null,
+          "columnbackground": null
+        }
       }
     ]
   },
@@ -142,26 +161,41 @@
       {
         "name": "Ability 1",
         "column": {
-          "length": 120,
-          "text_position": "left"
+          "width": 120,
+          "horizontalalignment": "left"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       },
       {
         "name": "Ability 2",
         "column": {
-          "length": 120,
-          "text_position": "left"
+          "width": 120,
+          "horizontalalignment": "left"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       },
       {
         "name": "Hidden",
         "column": {
-          "length": 120,
-          "text_position": "left"
+          "width": 120,
+          "horizontalalignment": "left"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       }
     ]
   },
@@ -171,58 +205,93 @@
       {
         "name": "HP",
         "column": {
-          "length": 48,
-          "text_position": "center"
+          "width": 48,
+          "horizontalalignment": "center"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       },
       {
         "name": "Att",
         "column": {
-          "length": 48,
-          "text_position": "center"
+          "width": 48,
+          "horizontalalignment": "center"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       },
       {
         "name": "Def",
         "column": {
-          "length": 48,
-          "text_position": "center"
+          "width": 48,
+          "horizontalalignment": "center"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       },
       {
         "name": "SpA",
         "column": {
-          "length": 48,
-          "text_position": "center"
+          "width": 48,
+          "horizontalalignment": "center"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       },
       {
         "name": "SpD",
         "column": {
-          "length": 48,
-          "text_position": "center"
+          "width": 48,
+          "horizontalalignment": "center"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       },
       {
         "name": "Spe",
         "column": {
-          "length": 48,
-          "text_position": "center"
+          "width": 48,
+          "horizontalalignment": "center"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       },
       {
         "name": "TOT",
         "column": {
-          "length": 48,
-          "text_position": "center"
+          "width": 48,
+          "horizontalalignment": "center"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       }
     ]
   },
@@ -232,10 +301,15 @@
       {
         "name": null,
         "column": {
-          "length": 120,
-          "text_position": "left"
+          "width": 120,
+          "horizontalalignment": "left"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       }
     ]
   },
@@ -245,18 +319,28 @@
       {
         "name": "Egg groups",
         "column": {
-          "length": 140,
-          "text_position": "left"
+          "width": 140,
+          "horizontalalignment": "left"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       },
       {
         "name": "Cycles",
         "column": {
-          "length": 100,
-          "text_position": "center"
+          "width": 100,
+          "horizontalalignment": "center"
         },
-        "hidden": false
+        "hidden": false,
+        "colored": {
+          "is_colored": false,
+          "columnbackground": null,
+          "fontcolor": null
+        }
       }
     ]
   }
