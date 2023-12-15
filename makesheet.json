@@ -1,7 +1,7 @@
 [
   {
     "general": {
-      "coloredcolumns": 4,
+      "coloredcolumns": 0,
       "rowsheight": 30,
       "verticalalignment": "middle",
       "borders": {
@@ -80,14 +80,12 @@
         "name": "Gen",
         "column": {
           "width": 48,
-          "horizontalalignment": "center"
-        },
-        "hidden": true,
-        "colored": {
-          "is_colored": true,
-          "columnbackground": "#434343",
+          "horizontalalignment": "center",
+          "colored": true,
+          "background": "#434343",
           "fontcolor": "#FFFFFF"
-        }
+        },
+        "hidden": true
       }
     ]
   },
@@ -98,40 +96,34 @@
         "name": "ID",
         "column": {
           "width": 48,
-          "horizontalalignment": "center"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": true,
-          "columnbackground": "#434343",
+          "horizontalalignment": "center",
+          "colored": true,
+          "background": "#434343",
           "fontcolor": "#FFFFFF"
-        }
+        },
+        "hidden": false
       },
       {
         "name": "Name",
         "column": {
           "width": 100,
-          "horizontalalignment": "left"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": true,
-          "columnbackground": "#434343",
+          "horizontalalignment": "left",
+          "colored": true,
+          "background": "#434343",
           "fontcolor": "#FFFFFF"
-        }
+        },
+        "hidden": false
       },
       {
         "name": "Sprite",
         "column": {
           "width": 48,
-          "horizontalalignment": "center"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": true,
-          "columnbackground": "#434343",
+          "horizontalalignment": "center",
+          "colored": true,
+          "background": "#434343",
           "fontcolor": "#FFFFFF"
-        }
+        },
+        "hidden": false
       }
     ]
   },
@@ -142,26 +134,22 @@
         "name": "Type 1",
         "column": {
           "width": 100,
-          "horizontalalignment": "left"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "left",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       },
       {
         "name": "Type 2",
         "column": {
           "width": 100,
-          "horizontalalignment": "left"
+          "horizontalalignment": "left",
+          "colored": null,
+          "background": null
         },
-        "hidden": false,
-        "colored": {
-          "is_colored": null,
-          "columnbackground": null
-        }
+        "hidden": false
       }
     ]
   },
@@ -172,40 +160,34 @@
         "name": "Ability 1",
         "column": {
           "width": 120,
-          "horizontalalignment": "left"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "left",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       },
       {
         "name": "Ability 2",
         "column": {
           "width": 120,
-          "horizontalalignment": "left"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "left",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       },
       {
         "name": "Hidden",
         "column": {
           "width": 120,
-          "horizontalalignment": "left"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "left",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       }
     ]
   },
@@ -216,92 +198,78 @@
         "name": "HP",
         "column": {
           "width": 48,
-          "horizontalalignment": "center"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "center",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       },
       {
         "name": "Att",
         "column": {
           "width": 48,
-          "horizontalalignment": "center"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "center",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       },
       {
         "name": "Def",
         "column": {
           "width": 48,
-          "horizontalalignment": "center"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "center",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       },
       {
         "name": "SpA",
         "column": {
           "width": 48,
-          "horizontalalignment": "center"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "center",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       },
       {
         "name": "SpD",
         "column": {
           "width": 48,
-          "horizontalalignment": "center"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "center",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       },
       {
         "name": "Spe",
         "column": {
           "width": 48,
-          "horizontalalignment": "center"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "center",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       },
       {
         "name": "TOT",
         "column": {
           "width": 48,
-          "horizontalalignment": "center"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "center",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       }
     ]
   },
@@ -312,14 +280,12 @@
         "name": null,
         "column": {
           "width": 120,
-          "horizontalalignment": "left"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "left",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       }
     ]
   },
@@ -330,27 +296,23 @@
         "name": "Egg groups",
         "column": {
           "width": 140,
-          "horizontalalignment": "left"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "left",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       },
       {
         "name": "Cycles",
         "column": {
           "width": 100,
-          "horizontalalignment": "center"
-        },
-        "hidden": false,
-        "colored": {
-          "is_colored": false,
-          "columnbackground": null,
+          "horizontalalignment": "center",
+          "colored": false,
+          "background": null,
           "fontcolor": null
-        }
+        },
+        "hidden": false
       }
     ]
   }
